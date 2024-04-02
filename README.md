@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **won0104/won0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 [<img align="left" alt="SOKURI_CODE | Notion" width="48px" src="https://img.icons8.com/ios/50/notion.png" />][Notion]
 
-<a href="https://velog.io/@woniwon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@won0104" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 [Notion]: https://w0nni.notion.site/Study-5ebcac85e41d4fdb8b2aebb32a2d920b
 
